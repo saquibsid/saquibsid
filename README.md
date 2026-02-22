@@ -1,13 +1,14 @@
 # Hi, I’m Mohd Shquib (Saquib),
 
-## Senior Frontend Software Engineer (React) | 10+ Years Experience
+## Senior Software Engineer | AI Engineer | 10+ Years Experience
 ### Building scalable, high-quality frontend systems with a strong product mindset.
 
 ##  🚀 About Me
 
-I’m a Senior Frontend Software Engineer with over 10 years of experience specializing in React-based applications. 
-I have worked on enterprise-scale SaaS and logistics platforms, focusing on scalable UI architecture, micro-frontends, performance, accessibility, and testing.
-Currently, I work on applications built using a micro-frontend architecture, where each feature is developed, versioned, and deployed independently and integrated into a central shell application.
+Senior Software Engineer with 10+ years of experience building scalable web applications
+across enterprise and product environments.Experienced in designing AI-powered systems
+including product review summarization and knowledge-base chatbots. Strong focus on
+scalable architecture, performance optimization, and clean engineering practices.
 
 I strongly believe in:
 
@@ -26,10 +27,12 @@ I strongly believe in:
 * Testing (Jest, React Testing Library)
 * HTML, CSS, SCSS, Responsive Design
 * REST APIs & async data handling
+* Node.js, Express.js, PHP , Laravel, REST APIs
 
 
 ## 🧩 What I’ve Built
 
+* AI Product Review Summarizer, Knowledge Base Chatbot - NodeJs/Express, React
 * Order Management Systems (OMS) for enterprise logistics platforms
 * Sustainability & Carbon Emission Calculation modules
 * Independently deployed micro-frontend features integrated into a shell app
