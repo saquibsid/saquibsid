@@ -1,6 +1,6 @@
 # Hi, I’m Mohd Shquib (Saquib),
 
-## Senior Software Engineer | AI Engineer | 10+ Years Experience
+## Senior Software Engineer | Frontend Developer| FullStack Developer | 10+ Years Experience
 ### Building scalable, high-quality frontend systems with a strong product mindset.
 
 ##  🚀 About Me
