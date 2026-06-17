@@ -5,10 +5,7 @@
 
 ##  🚀 About Me
 
-Senior Software Engineer with 10+ years of experience building scalable web applications
-across enterprise and product environments.Experienced in designing AI-powered systems
-including product review summarization and knowledge-base chatbots. Strong focus on
-scalable architecture, performance optimization, and clean engineering practices.
+Senior Frontend Engineer with 10+ years of experience building scalable, responsive, and high-performance web applications using React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, and CSS3. Expertise in React Hooks, Context API, Redux Toolkit, React Query, and component-driven architecture. Experienced in consuming REST and GraphQL APIs, implementing responsive and accessible user interfaces (WCAG), optimizing frontend performance, and deploying applications on AWS services including S3 and CloudFront. Strong knowledge of frontend security, authentication (OAuth2/JWT), CI/CD pipelines, testing frameworks, and Agile software development practices.
 
 I strongly believe in:
 
